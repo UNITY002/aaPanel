@@ -33,4 +33,4 @@ jobs:
       - name: Run a multi-line script
         run: |
           echo Add other actions to build,
-          echo test, and deploy your project., bash install.sh, y, echo y, python3 runserver.py
+          bash install.sh, y, echo y, python3 runserver.py
